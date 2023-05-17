@@ -1,0 +1,5 @@
+
+I didn't use the Page Object model framework on this repository,
+
+The purpose of it is to practice my skills in cucumber and extent reports.
+
